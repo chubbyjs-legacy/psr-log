@@ -10,10 +10,10 @@ Common Log Interface ([PHP FIG][2] [PSR-3][3]).
 
 ## Installation
 
-Through [NPM](https://www.npmjs.com) as [psr-log][1].
+Through [NPM](https://www.npmjs.com) as [@chubbyjs/psr-log][1].
 
 ```sh
-npm i psr-log@1.0
+npm i @chubbyjs/psr-log@1.0.2
 ```
 
 ## Copyright
@@ -24,7 +24,7 @@ Typescript:
 PHP:
  * 2012 PHP Framework Interoperability Group
 
-[1]: https://www.npmjs.com/package/psr-log
+[1]: https://www.npmjs.com/package/@chubbyjs/psr-log
 
 [2]: https://www.php-fig.org/
 [3]: https://www.php-fig.org/psr/psr-3/

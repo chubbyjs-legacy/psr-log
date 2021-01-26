@@ -1,6 +1,6 @@
 {
-  "name": "psr-log",
-  "version": "1.0.0",
+  "name": "@chubbyjs/psr-log",
+  "version": "1.0.2",
   "description": "Common Log Interface (PHP FIG PSR-3).",
   "keywords": [
     "psr",
