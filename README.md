@@ -19,7 +19,7 @@ npm i @chubbyjs/psr-log@1.0.2
 ## Copyright
 
 Typescript:
- * 2020 Dominik Zogg
+ * 2021 Dominik Zogg
 
 PHP:
  * 2012 PHP Framework Interoperability Group
