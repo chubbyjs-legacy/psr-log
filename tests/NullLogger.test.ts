@@ -1,5 +1,6 @@
-import NullLogger from '../src/NullLogger';
+import { test } from '@jest/globals';
 import LogLevel from '../src/LogLevel';
+import NullLogger from '../src/NullLogger';
 
 test('log', () => {
     const logger = new NullLogger();

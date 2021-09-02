@@ -1,3 +1,4 @@
+import { expect, test } from '@jest/globals';
 import AbstractLogger from '../src/AbstractLogger';
 import LogLevel from '../src/LogLevel';
 
